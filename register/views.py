@@ -61,7 +61,6 @@ def register(request):
                 'alert_message' : e
             })
         except firebase_admin.auth.AuthError as e :
-            print(e.detail)
             return render(request, 'register.html', {
                 'alert_message' : e.detail.response.json()['error']['message']
             })
