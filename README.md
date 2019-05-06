@@ -4,15 +4,15 @@
 
 Moli is a open lab in NCNU
 
-For more information, see website <https://moli.rocks>
+For more information, see [website](https://moli.rocks)
 
 ## Introduction of This System
 
-- This system back end made by Django, for more information about Django, see website <https://www.djangoproject.com/>
+- This system back end made by Django, for more information about Django, see [website](https://www.djangoproject.com/)
 
-- This system front end made by HTML + Bootstrap, for more information about Bootstrap, see website <https://getbootstrap.com/>
+- This system front end made by HTML + Bootstrap, for more information about Bootstrap, see [website](https://getbootstrap.com/)
 
-- This system database and authentication made by firebase, for more information about firebase, see website <https://firebase.google.com/>
+- This system database and authentication made by firebase, for more information about firebase, see [website](https://firebase.google.com/)
 
 ## ScreenShot of This System
 
